@@ -1,21 +1,7 @@
 # Notes - Kata #001 Result Type
 
-## First Attempt
+## Before Coding
 
-Date:
+## During Coding
 
-Timebox:
-
-## Initial Decisions
-
-## What Felt Clear
-
-## What Felt Unclear
-
-## Review Feedback
-
-## Refactoring Notes
-
-## Lessons Learned
-
-## Concepts To Add To Knowledge Base
+## After First Attempt
