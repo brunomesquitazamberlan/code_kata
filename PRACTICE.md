@@ -49,3 +49,10 @@ Each concept note should capture:
 
 The goal is not to create encyclopedic notes. The goal is to build a personal map of concepts that came from practice.
 
+## Paradigm practice
+
+Functional programming is a strength to keep developing, especially when a problem benefits from pure functions, composition, explicit data flow, and small transformations.
+
+Object-oriented programming should also be practiced deliberately. When the kata's expected API or domain model naturally points to objects, classes, methods, protocols, or encapsulation, the exercise should lean into those ideas instead of avoiding them.
+
+The aim is to choose a paradigm because it fits the problem, not because it feels most comfortable.

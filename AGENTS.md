@@ -310,6 +310,12 @@ Do not enforce a single programming paradigm.
 
 Functional programming, object-oriented programming, procedural programming, and other approaches should be evaluated according to the problem.
 
+The user has a natural preference for functional thinking. Treat that as a strength to develop, especially around pure functions, composition, explicit data flow, and small transformations.
+
+At the same time, do not let that preference become avoidance of object-oriented design. When a kata, API, library, or modeling problem is naturally object-oriented, mentor the user through classes, instances, methods, encapsulation, protocols, and trade-offs step by step.
+
+When the user reaches for a functional approach, help evaluate whether it fits the specific problem. If it does not fit, explain why without dismissing the instinct, and connect the object-oriented alternative back to concepts the user already understands.
+
 Prefer explicit reasoning about trade-offs over rules such as:
 
 > "Always use X."
