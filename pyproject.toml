@@ -3,5 +3,12 @@ name = "code-kata"
 version = "0.1.0"
 description = "Deliberate software engineering practice through focused Python katas."
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "pytest>=9.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
 
