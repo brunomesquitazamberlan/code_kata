@@ -103,19 +103,33 @@ Each kata has its own directory:
 ```text
 engineering-katas/
 ├── README.md
-├── 001-result/
-│   ├── README.md
-│   ├── solution.py
-│   └── notes.md
-├── 002-...
-└── ...
+├── AGENTS.md
+├── PRACTICE.md
+├── KATAS.md
+├── katas/
+│   ├── 001-result-type/
+│   │   ├── README.md
+│   │   ├── solution.py
+│   │   ├── test_solution.py
+│   │   └── notes.md
+│   └── 002-...
+└── knowledge/
+    ├── README.md
+    └── concepts/
+        └── ...
 ```
+
+`KATAS.md` is the index of challenges, status, and concepts practiced.
 
 The kata `README` describes the challenge.
 
 `solution.py` contains my implementation.
 
+`test_solution.py` contains focused tests when the kata calls for them.
+
 `notes.md` records decisions, difficulties, review feedback, refactorings, and lessons learned.
+
+The `knowledge/` directory contains reusable concepts that emerged from practice, with references for later study.
 
 The structure itself may evolve as the practice evolves.
 
@@ -134,4 +148,3 @@ In other words:
 > **This is not a showcase of perfect code. It is a record of deliberate engineering practice.**
 
 🥋 Let's practice.
-
