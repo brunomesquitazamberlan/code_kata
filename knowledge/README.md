@@ -40,4 +40,6 @@ When is this useful? When might it be overkill or misleading?
 ## Current concepts
 
 - [Function Composition](concepts/function-composition.md)
-
+- [Context Managers](concepts/context-managers.md)
+- [Data Normalization Pipeline](concepts/data-normalization-pipeline.md)
+- [Pytest And Assertions](concepts/pytest-and-assertions.md)
